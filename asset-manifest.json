@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Robogakure/static/css/main.1a3b7a0c.chunk.css",
+    "main.js": "/Robogakure/static/js/main.d5466437.chunk.js",
+    "main.js.map": "/Robogakure/static/js/main.d5466437.chunk.js.map",
+    "runtime-main.js": "/Robogakure/static/js/runtime-main.59089c04.js",
+    "runtime-main.js.map": "/Robogakure/static/js/runtime-main.59089c04.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robogakure/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0b1970b9.chunk.js": "/Robogakure/static/js/2.0b1970b9.chunk.js",
+    "static/js/2.0b1970b9.chunk.js.map": "/Robogakure/static/js/2.0b1970b9.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/Robogakure/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/Robogakure/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/Robogakure/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robogakure/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.1a3b7a0c.chunk.css.map": "/Robogakure/static/css/main.1a3b7a0c.chunk.css.map",
+    "static/js/2.0b1970b9.chunk.js.LICENSE.txt": "/Robogakure/static/js/2.0b1970b9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Robogakure/static/media/Jiraiya-Sama.8c066cab.jpg",
+    "static/media/App.css": "/Robogakure/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59089c04.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0b1970b9.chunk.js",
+    "static/css/main.1a3b7a0c.chunk.css",
+    "static/js/main.d5466437.chunk.js"
+  ]
+}
